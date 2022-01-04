@@ -8,6 +8,6 @@ I am currently reaching out to Johannes Schmitt to see if I can incorporate part
 To install the program place the admcycles and thesiscode folders in the same directory.
 Then run sagemath from that directory and type load('thesiscode/init.sage')
 
-There is a list of functions in the file "thesiscommands" that provide the data required in the thesis.
+There is a list of functions in the file "thesiscommands.sage" that provide the data required in the thesis.
 
 When there are partially symmetric relations, our convention is that the first points are fixed by the symmetry action, while the later points are the 'unsymmetric' ones
