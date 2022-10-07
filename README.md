@@ -1,3 +1,5 @@
+This page is for my PhD thesis, for the corresponding paper see: https://github.com/Wennink/gwreconstruction
+
 This program contains an old version of admcycles.
 See https://gitlab.com/jo314schmitt/admcycles 
 
