@@ -1,11 +1,9 @@
-This page is for my PhD thesis, for the corresponding paper see: https://github.com/Wennink/gwreconstruction
+This is legacy code I used for my PhD thesis, for an improved version see: https://github.com/Wennink/gwreconstruction
 
 This program contains an old version of admcycles.
 See https://gitlab.com/jo314schmitt/admcycles 
 
-This program does not run on the current version of admcycles because it still uses the 'tautclass' class.
-
-I am currently reaching out to Johannes Schmitt to see if I can incorporate part of my code into the admcycles project.
+It does not run on the current version of admcycles because it uses the 'tautclass' class.
 
 To install the program place the admcycles and thesiscode folders in the same directory.
 Then run sagemath from that directory and type load('thesiscode/init.sage')
